@@ -1,1 +1,1 @@
-web: gunicorn inmuebles.wsgi
+web: gunicorn inmuebles/inmuebles.wsgi
